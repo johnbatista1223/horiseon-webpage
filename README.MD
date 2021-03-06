@@ -7,4 +7,4 @@ this project had little to no format , i cleaned the code by using proper format
 
 - from this project i learned how to properly format html elements instead of using divs to break point everything on a web page, divs are useful but when you properly format everything its easier to read and go back to the code to make changes.
 
-<img src="horiseon-webpage/assets/images/Screen Shot 2021-03-06 at 2.53.31 PM.png">
+<img src="assets/images/Screen Shot 2021-03-06 at 2.53.31 PM.png">
